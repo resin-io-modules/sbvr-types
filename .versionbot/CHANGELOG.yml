@@ -1,4 +1,14 @@
 - commits:
+    - subject: Add 'Date Time Range' type
+      hash: ffcb476b1760471793edcffc3eb53fe66b8d6048
+      body: ''
+      footer:
+        Change-type: minor
+        change-type: minor
+      author: Pagan Gazzard
+  version: 3.2.0
+  date: 2020-07-01T17:42:05.971Z
+- commits:
     - subject: Update dependencies
       hash: 33be8837bde82d29f182506f4b93e33157bea185
       body: ''
